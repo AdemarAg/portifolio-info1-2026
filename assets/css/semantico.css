@@ -27,7 +27,7 @@ main {
 
 section {
     background-color: #f7c337;
-    color: white;
+    color: black;
     padding: 10px;
     background-clip: content-box;
     border: 10px solid #d4d8d8;
@@ -36,10 +36,27 @@ section {
 
 article {
     background-color: #00cb78;
-    color: white;
+    color: black;
     padding: 10px;
     background-clip: content-box;
-    border: 10px dotted #00cb78;
+    border: 3px dotted #00cb78;
     margin: 10px;
 }
 
+aside {
+    background-color: #9e5bb2;
+    color: white;
+    padding: 10px;
+    background-clip: content-box;
+    border: 10px solid #dadede;
+    margin: 10px;
+}
+
+footer {
+    background-color: #293e4f;
+    color: white;
+    padding: 20px;
+    background-clip: content-box;
+    border: 10px solid #dadede;
+    margin: 10px;
+}
