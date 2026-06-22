@@ -53,11 +53,11 @@ aside {
 }
 
 footer {
+    text-align: center;
     background-color: #293e4f;
     color: white;
     padding: 20px;
     background-clip: content-box;
     border: 10px solid #dadede;
     margin: 10px;
-    text-align: center;
 }
