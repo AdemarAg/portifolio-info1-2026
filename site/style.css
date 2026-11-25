@@ -52,6 +52,7 @@ header a {
     text-decoration: none;
     color: black;
     font-size: 22px;
+    box-sizing: border-box;
 }
 
 .amarelo2 {
@@ -64,6 +65,7 @@ header a {
     text-decoration: none;
     color: black;
     font-size: 22px;
+    box-sizing: border-box;
 }
 
 .amarelo3 {
@@ -76,6 +78,7 @@ header a {
     text-decoration: none;
     color: black;
     font-size: 22px;
+    box-sizing: border-box;
 }
 
 .amarelo4 {
@@ -88,6 +91,7 @@ header a {
     text-decoration: none;
     color: black;
     font-size: 22px;
+    box-sizing: border-box;
 }
 
 .quadradao {
@@ -97,6 +101,7 @@ header a {
     position: absolute;
     left: 38px;
     top: 162px;
+    box-sizing: border-box;
 }
 
 img {
@@ -116,6 +121,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
 }
 
 .retanguloy2 {
@@ -129,6 +135,7 @@ img {
     align-items: center;
     justify-content: center;
     font-size: 24px;
+    box-sizing: border-box;
 }
 
 .retanguloy3 {
@@ -143,6 +150,7 @@ img {
     justify-content: flex-start;
     font-size: 20px;
     padding-left: 12px;
+    box-sizing: border-box;
 }
 
 button {
@@ -154,6 +162,7 @@ button {
     top: 457px;
     color: white;
     font-size: 40px;
+    box-sizing: border-box;
 }
 
 .poster1 {
@@ -163,6 +172,7 @@ button {
     position: absolute;
     top: 583px;
     left: 30px;
+    box-sizing: border-box;
 }
 
 .green1 {
@@ -176,6 +186,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
 }
 
 .green2 {
@@ -189,6 +200,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
 }
 
 .y1 {
@@ -202,6 +214,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    box-sizing: border-box;
 }
 
 .y2 {
@@ -228,6 +241,7 @@ button {
     top: 583px;
     left: 525px;
     display: flex;
+    box-sizing: border-box;
 }
 
 .c3 {
@@ -237,6 +251,7 @@ button {
     position: absolute;
     left: 22px;
     top: 879px;
+    box-sizing: border-box;
 }
 
 .big1 {
@@ -250,6 +265,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
 }
 
 .big2 {
@@ -263,6 +279,7 @@ button {
     justify-content: flex-start;
     padding-left: 10px;
     display: flex;
+    box-sizing: border-box;
 }
 
 .big3 {
@@ -276,18 +293,8 @@ button {
     align-items: center;
     justify-content: flex-start;
     padding-left: 10px;
+    box-sizing: border-box;
 }
-
-.my {
-    width: 30px;
-    height: 29px;
-    background-color: #fddd53;
-    position: absolute;
-    left: 22px;
-    top: 428px;
-}
-
-
 
 .g1 {
     background-color: #27a452;
@@ -301,6 +308,7 @@ button {
     justify-content: flex-start;
     padding-left: 10px;
     font-size: 20px;
+    box-sizing: border-box;
 }
 
 .g2 {
@@ -315,6 +323,7 @@ button {
     justify-content: flex-start;
     padding-left: 10px;
     font-size: 20px;
+    box-sizing: border-box;
 }
 
 .g3 {
@@ -329,6 +338,7 @@ button {
     justify-content: flex-start;
     padding-left: 10px;
     font-size: 20px;
+    box-sizing: border-box;
 }
 
 .g4 {
@@ -343,6 +353,7 @@ button {
     justify-content: flex-start;
     padding-left: 10px;
     font-size: 20px;
+    box-sizing: border-box;
 }
 
 #y1 {
@@ -353,6 +364,7 @@ button {
     top: 96px;
     left: 208px;
     font-size: 20px;
+    box-sizing: border-box;
 }
 
 #y3 {
@@ -363,6 +375,7 @@ button {
     top: 165px;
     left: 208px;
     font-size: 20px;
+    box-sizing: border-box;
 }
 
 #y2 {
@@ -373,6 +386,7 @@ button {
     top: 96px;
     left: 690px;
     font-size: 20px;
+    box-sizing: border-box;
 }
 
 #y4 {
@@ -383,6 +397,7 @@ button {
     top: 165px;
     left: 690px;
     font-size: 20px;
+    box-sizing: border-box;
 }
 
 #BY {
@@ -394,6 +409,7 @@ button {
     top: 287px;
     padding: 10px;
     font-size: 20px;
+    box-sizing: border-box;
     box-sizing: border-box;
 }
 
@@ -409,7 +425,7 @@ button {
     align-items: center;
     justify-content: center;
     font-size: 25px;
-    
+    box-sizing: border-box;
 }
 
 footer {
@@ -422,6 +438,7 @@ footer {
     align-items: center;
     justify-content: center;
     margin: 10px;
+    box-sizing: border-box;
 }
 
 .amarelo {
@@ -431,6 +448,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
 }
 
 .check-container {
